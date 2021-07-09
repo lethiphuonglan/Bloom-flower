@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Tặng hoa cho người yêu cũ ? Chọn hoa khô hay hoa tươi?	</title>
+	<atom:link href="http://localhost/myproject/wordpress/tang-hoa-cho-nguoi-yeu-cu-chon-hoa-kho-hay-hoa-tuoi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lethiphuonglan.github.io/Bloom-flower/tang-hoa-cho-nguoi-yeu-cu-chon-hoa-kho-hay-hoa-tuoi/</link>
+	<description>Let flowers speak for you!</description>
+	<lastBuildDate>Fri, 09 Jul 2021 09:47:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>
